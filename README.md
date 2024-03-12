@@ -1,4 +1,4 @@
-# Buildings detection using "detection2" model developed by META
+# Buildings detection using "detectron2" model developed by META
 
 ## Roboflow is a end-to-end computer vision tool, and we used it in our work.
 
